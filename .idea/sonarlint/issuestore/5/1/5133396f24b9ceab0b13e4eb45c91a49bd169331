@@ -1,0 +1,15 @@
+
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8Àú©çÿ-
+v
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(èß‚8Ñ¡˜çÿ-
+V
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ËÕèë8ĞÉ¨çÿ-
+V
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ËÕèë8Şã¦çÿ-
+1squid:S1220""Move this file to a named package.
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8«©çÿ-
+V
+squid:S106S"9Replace this use of System.out or System.err by a logger.(ËÕèë8«©çÿ-
+asquid:S1155$">Use isEmpty() to check whether the collection is empty or not.(ï£ÿÿÿÿÿ8Å»øÒ€.
